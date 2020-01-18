@@ -1,1382 +1,1612 @@
 [
- {
-   "zh-tw": "阿富汗",
-   "zh-cn": "阿富汗",
-   "en": "Afghanistan",
-   "phone_code": 93
- },
- {
-   "zh-tw": "阿爾巴尼亞",
-   "zh-cn": "阿尔巴尼亚",
-   "en": "Albania",
-   "phone_code": 355
- },
- {
-   "zh-tw": "阿爾及利亞",
-   "zh-cn": "阿尔及利亚",
-   "en": "Algeria",
-   "phone_code": 213
- },
- {
-   "zh-tw": "美屬薩摩亞",
-   "zh-cn": "美属萨摩亚",
-   "en": "American Samoa",
-   "phone_code": 684
- },
- {
-   "zh-tw": "安道爾",
-   "zh-cn": "安道尔",
-   "en": "Andorra",
-   "phone_code": 376
- },
- {
-   "zh-tw": "安哥拉",
-   "zh-cn": "安哥拉",
-   "en": "Angola",
-   "phone_code": 244
- },
- {
-   "zh-tw": "安奎拉",
-   "zh-cn": "安圭拉",
-   "en": "Anguilla",
-   "phone_code": 1264
- },
- {
-   "zh-tw": "南極洲",
-   "zh-cn": "南极洲",
-   "en": "Antarctica",
-   "phone_code": 672
- },
- {
-   "zh-tw": "安地卡及巴布達",
-   "zh-cn": "安提瓜和巴布达",
-   "en": "Antigua and Barbuda",
-   "phone_code": 1268
- },
- {
-   "zh-tw": "阿根廷",
-   "zh-cn": "阿根廷",
-   "en": "Argentina",
-   "phone_code": 54
- },
- {
-   "zh-tw": "亞美尼亞",
-   "zh-cn": "亚美尼亚",
-   "en": "Armenia",
-   "phone_code": 374
- },
- {
-   "zh-tw": "阿魯巴",
-   "zh-cn": "阿鲁巴",
-   "en": "Aruba",
-   "phone_code": 297
- },
- {
-   "zh-tw": "澳大利亞",
-   "zh-cn": "澳大利亚",
-   "en": "Australia",
-   "phone_code": 61
- },
- {
-   "zh-tw": "奧地利",
-   "zh-cn": "奥地利",
-   "en": "Austria",
-   "phone_code": 43
- },
- {
-   "zh-tw": "亞塞拜然",
-   "zh-cn": "阿塞拜疆",
-   "en": "Azerbaijan",
-   "phone_code": 994
- },
- {
-   "zh-tw": "巴林",
-   "zh-cn": "巴林",
-   "en": "Bahrain",
-   "phone_code": 973
- },
- {
-   "zh-tw": "孟加拉",
-   "zh-cn": "孟加拉国",
-   "en": "Bangladesh",
-   "phone_code": 880
- },
- {
-   "zh-tw": "巴貝多",
-   "zh-cn": "巴巴多斯",
-   "en": "Barbados",
-   "phone_code": 1246
- },
- {
-   "zh-tw": "白俄羅斯",
-   "zh-cn": "白俄罗斯",
-   "en": "Belarus",
-   "phone_code": 375
- },
- {
-   "zh-tw": "比利時",
-   "zh-cn": "比利时",
-   "en": "Belgium",
-   "phone_code": 32
- },
- {
-   "zh-tw": "貝里斯",
-   "zh-cn": "伯利兹",
-   "en": "Belize",
-   "phone_code": 501
- },
- {
-   "zh-tw": "貝南",
-   "zh-cn": "贝宁",
-   "en": "Benin",
-   "phone_code": 229
- },
- {
-   "zh-tw": "百慕達",
-   "zh-cn": "百慕大",
-   "en": "Bermuda",
-   "phone_code": 1441
- },
- {
-   "zh-tw": "不丹",
-   "zh-cn": "不丹",
-   "en": "Bhutan",
-   "phone_code": 975
- },
- {
-   "zh-tw": "玻利維亞",
-   "zh-cn": "玻利维亚",
-   "en": "Bolivia",
-   "phone_code": 591
- },
- {
-   "zh-tw": "波士尼亞與赫塞哥維納",
-   "zh-cn": "波黑",
-   "en": "Bosnia and Herzegovina",
-   "phone_code": 387
- },
- {
-   "zh-tw": "波札那",
-   "zh-cn": "博茨瓦纳",
-   "en": "Botswana",
-   "phone_code": 267
- },
- {
-   "zh-tw": "巴西",
-   "zh-cn": "巴西",
-   "en": "Brazil",
-   "phone_code": 55
- },
- {
-   "zh-tw": "英屬維京群島",
-   "zh-cn": "英属维尔京群岛",
-   "en": "British Virgin Islands",
-   "phone_code": 1284
- },
- {
-   "zh-tw": "汶萊",
-   "zh-cn": "文莱",
-   "en": "Brunei Darussalam",
-   "phone_code": 673
- },
- {
-   "zh-tw": "保加利亞",
-   "zh-cn": "保加利亚",
-   "en": "Bulgaria",
-   "phone_code": 359
- },
- {
-   "zh-tw": "布吉納法索",
-   "zh-cn": "布基纳法索",
-   "en": "Burkina Faso",
-   "phone_code": 226
- },
- {
-   "zh-tw": "緬甸",
-   "zh-cn": "缅甸",
-   "en": "Burma",
-   "phone_code": 95
- },
- {
-   "zh-tw": "蒲隆地",
-   "zh-cn": "布隆迪",
-   "en": "Burundi",
-   "phone_code": 257
- },
- {
-   "zh-tw": "柬埔寨",
-   "zh-cn": "柬埔寨",
-   "en": "Cambodia",
-   "phone_code": 855
- },
- {
-   "zh-tw": "喀麥隆",
-   "zh-cn": "喀麦隆",
-   "en": "Cameroon",
-   "phone_code": 237
- },
- {
-   "zh-tw": "加拿大",
-   "zh-cn": "加拿大",
-   "en": "Canada",
-   "phone_code": 1
- },
- {
-   "zh-tw": "維德角",
-   "zh-cn": "佛得角",
-   "en": "Cape Verde",
-   "phone_code": 238
- },
- {
-   "zh-tw": "開曼群島",
-   "zh-cn": "开曼群岛",
-   "en": "Cayman Islands",
-   "phone_code": 1345
- },
- {
-   "zh-tw": "中非共和國",
-   "zh-cn": "中非",
-   "en": "Central African Republic",
-   "phone_code": 236
- },
- {
-   "zh-tw": "查德",
-   "zh-cn": "乍得",
-   "en": "Chad",
-   "phone_code": 235
- },
- {
-   "zh-tw": "智利",
-   "zh-cn": "智利",
-   "en": "Chile",
-   "phone_code": 56
- },
- {
-   "zh-tw": "中國",
-   "zh-cn": "中国",
-   "en": "China",
-   "phone_code": 86
- },
- {
-   "zh-tw": "聖誕島",
-   "zh-cn": "圣诞岛",
-   "en": "Christmas Island",
-   "phone_code": 61
- },
- {
-   "zh-tw": "科克斯（基靈）群島",
-   "zh-cn": "科科斯（基林）群岛",
-   "en": "Cocos (Keeling) Islands",
-   "phone_code": 61
- },
- {
-   "zh-tw": "哥倫比亞",
-   "zh-cn": "哥伦比亚",
-   "en": "Colombia",
-   "phone_code": 57
- },
- {
-   "zh-tw": "葛摩",
-   "zh-cn": "科摩罗",
-   "en": "Comoros",
-   "phone_code": 269
- },
- {
-   "zh-tw": "剛果民主共和國",
-   "zh-cn": "刚果（金）",
-   "en": "Democratic Republic of the Congo",
-   "phone_code": 243
- },
- {
-   "zh-tw": "剛果",
-   "zh-cn": "刚果（布）",
-   "en": "Republic of the Congo",
-   "phone_code": 242
- },
- {
-   "zh-tw": "庫克群島",
-   "zh-cn": "库克群岛",
-   "en": "Cook Islands",
-   "phone_code": 682
- },
- {
-   "zh-tw": "哥斯大黎加",
-   "zh-cn": "哥斯达黎加",
-   "en": "Costa Rica",
-   "phone_code": 506
- },
- {
-   "zh-tw": "象牙海岸",
-   "zh-cn": "科特迪瓦",
-   "en": "Cote d'Ivoire",
-   "phone_code": 225
- },
- {
-   "zh-tw": "克羅埃西亞",
-   "zh-cn": "克罗地亚",
-   "en": "Croatia",
-   "phone_code": 385
- },
- {
-   "zh-tw": "古巴",
-   "zh-cn": "古巴",
-   "en": "Cuba",
-   "phone_code": 53
- },
- {
-   "zh-tw": "賽普勒斯",
-   "zh-cn": "塞浦路斯",
-   "en": "Cyprus",
-   "phone_code": 357
- },
- {
-   "zh-tw": "捷克",
-   "zh-cn": "捷克",
-   "en": "Czech Republic",
-   "phone_code": 420
- },
- {
-   "zh-tw": "丹麥",
-   "zh-cn": "丹麦",
-   "en": "Denmark",
-   "phone_code": 45
- },
- {
-   "zh-tw": "吉布地",
-   "zh-cn": "吉布提",
-   "en": "Djibouti",
-   "phone_code": 253
- },
- {
-   "zh-tw": "多米尼克",
-   "zh-cn": "多米尼克",
-   "en": "Dominica",
-   "phone_code": 1767
- },
- {
-   "zh-tw": "多明尼加共和國",
-   "zh-cn": "多米尼加",
-   "en": "Dominican Republic",
-   "phone_code": 1809
- },
- {
-   "zh-tw": "厄瓜多",
-   "zh-cn": "厄瓜多尔",
-   "en": "Ecuador",
-   "phone_code": 593
- },
- {
-   "zh-tw": "埃及",
-   "zh-cn": "埃及",
-   "en": "Egypt",
-   "phone_code": 20
- },
- {
-   "zh-tw": "薩爾瓦多",
-   "zh-cn": "萨尔瓦多",
-   "en": "El Salvador",
-   "phone_code": 503
- },
- {
-   "zh-tw": "赤道幾內亞",
-   "zh-cn": "赤道几内亚",
-   "en": "Equatorial Guinea",
-   "phone_code": 240
- },
- {
-   "zh-tw": "厄利垂亞",
-   "zh-cn": "厄立特里亚",
-   "en": "Eritrea",
-   "phone_code": 291
- },
- {
-   "zh-tw": "愛沙尼亞",
-   "zh-cn": "爱沙尼亚",
-   "en": "Estonia",
-   "phone_code": 372
- },
- {
-   "zh-tw": "衣索比亞",
-   "zh-cn": "埃塞俄比亚",
-   "en": "Ethiopia",
-   "phone_code": 251
- },
- {
-   "zh-tw": "福克蘭群島 (馬維納斯群島)",
-   "zh-cn": "福克兰群岛（马尔维纳斯）",
-   "en": "Falkland Islands (Islas Malvinas)",
-   "phone_code": 500
- },
- {
-   "zh-tw": "法羅群島",
-   "zh-cn": "法罗群岛",
-   "en": "Faroe Islands",
-   "phone_code": 298
- },
- {
-   "zh-tw": "斐濟",
-   "zh-cn": "斐济",
-   "en": "Fiji",
-   "phone_code": 679
- },
- {
-   "zh-tw": "芬蘭",
-   "zh-cn": "芬兰",
-   "en": "Finland",
-   "phone_code": 358
- },
- {
-   "zh-tw": "法國",
-   "zh-cn": "法国",
-   "en": "France",
-   "phone_code": 33
- },
- {
-   "zh-tw": "法屬圭亞那",
-   "zh-cn": "法属圭亚那",
-   "en": "French Guiana",
-   "phone_code": 594
- },
- {
-   "zh-tw": "法屬玻里尼西亞",
-   "zh-cn": "法属波利尼西亚",
-   "en": "French Polynesia",
-   "phone_code": 689
- },
- {
-   "zh-tw": "加彭",
-   "zh-cn": "加蓬",
-   "en": "Gabon",
-   "phone_code": 241
- },
- {
-   "zh-tw": "喬治亞",
-   "zh-cn": "格鲁吉亚",
-   "en": "Georgia",
-   "phone_code": 995
- },
- {
-   "zh-tw": "德國",
-   "zh-cn": "德国",
-   "en": "Germany",
-   "phone_code": 49
- },
- {
-   "zh-tw": "迦納",
-   "zh-cn": "加纳",
-   "en": "Ghana",
-   "phone_code": 233
- },
- {
-   "zh-tw": "直布羅陀",
-   "zh-cn": "直布罗陀",
-   "en": "Gibraltar",
-   "phone_code": 350
- },
- {
-   "zh-tw": "希臘",
-   "zh-cn": "希腊",
-   "en": "Greece",
-   "phone_code": 30
- },
- {
-   "zh-tw": "格陵蘭",
-   "zh-cn": "格陵兰",
-   "en": "Greenland",
-   "phone_code": 299
- },
- {
-   "zh-tw": "格瑞那達",
-   "zh-cn": "格林纳达",
-   "en": "Grenada",
-   "phone_code": 1473
- },
- {
-   "zh-tw": "瓜地洛普",
-   "zh-cn": "瓜德罗普",
-   "en": "Guadeloupe",
-   "phone_code": 590
- },
- {
-   "zh-tw": "關島",
-   "zh-cn": "关岛",
-   "en": "Guam",
-   "phone_code": 1671
- },
- {
-   "zh-tw": "瓜地馬拉",
-   "zh-cn": "危地马拉",
-   "en": "Guatemala",
-   "phone_code": 502
- },
- {
-   "zh-tw": "根息",
-   "zh-cn": "根西岛",
-   "en": "Guernsey",
-   "phone_code": 1481
- },
- {
-   "zh-tw": "幾內亞",
-   "zh-cn": "几内亚",
-   "en": "Guinea",
-   "phone_code": 224
- },
- {
-   "zh-tw": "幾內亞比索",
-   "zh-cn": "几内亚比绍",
-   "en": "Guinea-Bissau",
-   "phone_code": 245
- },
- {
-   "zh-tw": "蓋亞那",
-   "zh-cn": "圭亚那",
-   "en": "Guyana",
-   "phone_code": 592
- },
- {
-   "zh-tw": "海地",
-   "zh-cn": "海地",
-   "en": "Haiti",
-   "phone_code": 509
- },
- {
-   "zh-tw": "梵蒂岡",
-   "zh-cn": "梵蒂冈",
-   "en": "Holy See (Vatican City)",
-   "phone_code": 379
- },
- {
-   "zh-tw": "洪都拉斯",
-   "zh-cn": "洪都拉斯",
-   "en": "Honduras",
-   "phone_code": 504
- },
- {
-   "zh-tw": "香港",
-   "zh-cn": "香港",
-   "en": "Hong Kong (SAR)",
-   "phone_code": 852
- },
- {
-   "zh-tw": "匈牙利",
-   "zh-cn": "匈牙利",
-   "en": "Hungary",
-   "phone_code": 36
- },
- {
-   "zh-tw": "冰島",
-   "zh-cn": "冰岛",
-   "en": "Iceland",
-   "phone_code": 354
- },
- {
-   "zh-tw": "印度",
-   "zh-cn": "印度",
-   "en": "India",
-   "phone_code": 91
- },
- {
-   "zh-tw": "印尼",
-   "zh-cn": "印度尼西亚",
-   "en": "Indonesia",
-   "phone_code": 62
- },
- {
-   "zh-tw": "伊朗",
-   "zh-cn": "伊朗",
-   "en": "Iran",
-   "phone_code": 98
- },
- {
-   "zh-tw": "伊拉克",
-   "zh-cn": "伊拉克",
-   "en": "Iraq",
-   "phone_code": 964
- },
- {
-   "zh-tw": "愛爾蘭",
-   "zh-cn": "爱尔兰",
-   "en": "Ireland",
-   "phone_code": 353
- },
- {
-   "zh-tw": "以色列",
-   "zh-cn": "以色列",
-   "en": "Israel",
-   "phone_code": 972
- },
- {
-   "zh-tw": "意大利",
-   "zh-cn": "意大利",
-   "en": "Italy",
-   "phone_code": 39
- },
- {
-   "zh-tw": "牙買加",
-   "zh-cn": "牙买加",
-   "en": "Jamaica",
-   "phone_code": 1876
- },
- {
-   "zh-tw": "日本",
-   "zh-cn": "日本",
-   "en": "Japan",
-   "phone_code": 81
- },
- {
-   "zh-tw": "約旦",
-   "zh-cn": "约旦",
-   "en": "Jordan",
-   "phone_code": 962
- },
- {
-   "zh-tw": "哈薩克",
-   "zh-cn": "哈萨克斯坦",
-   "en": "Kazakhstan",
-   "phone_code": 73
- },
- {
-   "zh-tw": "肯亞",
-   "zh-cn": "肯尼亚",
-   "en": "Kenya",
-   "phone_code": 254
- },
- {
-   "zh-tw": "吉里巴斯",
-   "zh-cn": "基里巴斯",
-   "en": "Kiribati",
-   "phone_code": 686
- },
- {
-   "zh-tw": "北韓",
-   "zh-cn": "朝鲜",
-   "en": "North Korea",
-   "phone_code": 850
- },
- {
-   "zh-tw": "韓國",
-   "zh-cn": "韩国",
-   "en": "South Korea",
-   "phone_code": 82
- },
- {
-   "zh-tw": "科威特",
-   "zh-cn": "科威特",
-   "en": "Kuwait",
-   "phone_code": 965
- },
- {
-   "zh-tw": "吉爾吉斯",
-   "zh-cn": "吉尔吉斯斯坦",
-   "en": "Kyrgyzstan",
-   "phone_code": 996
- },
- {
-   "zh-tw": "寮國",
-   "zh-cn": "老挝",
-   "en": "Laos",
-   "phone_code": 856
- },
- {
-   "zh-tw": "拉脫維亞",
-   "zh-cn": "拉脱维亚",
-   "en": "Latvia",
-   "phone_code": 371
- },
- {
-   "zh-tw": "黎巴嫩",
-   "zh-cn": "黎巴嫩",
-   "en": "Lebanon",
-   "phone_code": 961
- },
- {
-   "zh-tw": "賴索托",
-   "zh-cn": "莱索托",
-   "en": "Lesotho",
-   "phone_code": 266
- },
- {
-   "zh-tw": "賴比瑞亞",
-   "zh-cn": "利比里亚",
-   "en": "Liberia",
-   "phone_code": 231
- },
- {
-   "zh-tw": "利比亞",
-   "zh-cn": "利比亚",
-   "en": "Libya",
-   "phone_code": 218
- },
- {
-   "zh-tw": "列支敦斯登",
-   "zh-cn": "列支敦士登",
-   "en": "Liechtenstein",
-   "phone_code": 423
- },
- {
-   "zh-tw": "立陶宛",
-   "zh-cn": "立陶宛",
-   "en": "Lithuania",
-   "phone_code": 370
- },
- {
-   "zh-tw": "盧森堡",
-   "zh-cn": "卢森堡",
-   "en": "Luxembourg",
-   "phone_code": 352
- },
- {
-   "zh-tw": "澳門",
-   "zh-cn": "澳门",
-   "en": "Macao",
-   "phone_code": 853
- },
- {
-   "zh-tw": "前南馬其頓",
-   "zh-cn": "前南马其顿",
-   "en": "The Former Yugoslav Republic of Macedonia",
-   "phone_code": 389
- },
- {
-   "zh-tw": "馬達加斯加",
-   "zh-cn": "马达加斯加",
-   "en": "Madagascar",
-   "phone_code": 261
- },
- {
-   "zh-tw": "馬拉威",
-   "zh-cn": "马拉维",
-   "en": "Malawi",
-   "phone_code": 265
- },
- {
-   "zh-tw": "馬來西亞",
-   "zh-cn": "马来西亚",
-   "en": "Malaysia",
-   "phone_code": 60
- },
- {
-   "zh-tw": "馬爾地夫",
-   "zh-cn": "马尔代夫",
-   "en": "Maldives",
-   "phone_code": 960
- },
- {
-   "zh-tw": "馬利",
-   "zh-cn": "马里",
-   "en": "Mali",
-   "phone_code": 223
- },
- {
-   "zh-tw": "馬爾他",
-   "zh-cn": "马耳他",
-   "en": "Malta",
-   "phone_code": 356
- },
- {
-   "zh-tw": "馬紹爾群島",
-   "zh-cn": "马绍尔群岛",
-   "en": "Marshall Islands",
-   "phone_code": 692
- },
- {
-   "zh-tw": "馬丁尼克",
-   "zh-cn": "马提尼克",
-   "en": "Martinique",
-   "phone_code": 596
- },
- {
-   "zh-tw": "茅利塔尼亞",
-   "zh-cn": "毛里塔尼亚",
-   "en": "Mauritania",
-   "phone_code": 222
- },
- {
-   "zh-tw": "模里西斯",
-   "zh-cn": "毛里求斯",
-   "en": "Mauritius",
-   "phone_code": 230
- },
- {
-   "zh-tw": "馬約特島",
-   "zh-cn": "马约特",
-   "en": "Mayotte",
-   "phone_code": 269
- },
- {
-   "zh-tw": "墨西哥",
-   "zh-cn": "墨西哥",
-   "en": "Mexico",
-   "phone_code": 52
- },
- {
-   "zh-tw": "密克羅尼西亞",
-   "zh-cn": "密克罗尼西亚",
-   "en": "Federated States of Micronesia",
-   "phone_code": 691
- },
- {
-   "zh-tw": "摩爾多瓦",
-   "zh-cn": "摩尔多瓦",
-   "en": "Moldova",
-   "phone_code": 373
- },
- {
-   "zh-tw": "摩納哥",
-   "zh-cn": "摩纳哥",
-   "en": "Monaco",
-   "phone_code": 377
- },
- {
-   "zh-tw": "蒙古",
-   "zh-cn": "蒙古",
-   "en": "Mongolia",
-   "phone_code": 976
- },
- {
-   "zh-tw": "蒙特塞拉特",
-   "zh-cn": "蒙特塞拉特",
-   "en": "Montserrat",
-   "phone_code": 1664
- },
- {
-   "zh-tw": "摩洛哥",
-   "zh-cn": "摩洛哥",
-   "en": "Morocco",
-   "phone_code": 212
- },
- {
-   "zh-tw": "莫三比克",
-   "zh-cn": "莫桑比克",
-   "en": "Mozambique",
-   "phone_code": 258
- },
- {
-   "zh-tw": "納米比亞",
-   "zh-cn": "纳米尼亚",
-   "en": "Namibia",
-   "phone_code": 264
- },
- {
-   "zh-tw": "諾魯",
-   "zh-cn": "瑙鲁",
-   "en": "Nauru",
-   "phone_code": 674
- },
- {
-   "zh-tw": "尼泊爾",
-   "zh-cn": "尼泊尔",
-   "en": "Nepal",
-   "phone_code": 977
- },
- {
-   "zh-tw": "荷蘭",
-   "zh-cn": "荷兰",
-   "en": "Netherlands",
-   "phone_code": 31
- },
- {
-   "zh-tw": "荷屬安地列斯",
-   "zh-cn": "荷属安的列斯",
-   "en": "Netherlands Antilles",
-   "phone_code": 599
- },
- {
-   "zh-tw": "新喀裡多尼亞",
-   "zh-cn": "新喀里多尼亚",
-   "en": "New Caledonia",
-   "phone_code": 687
- },
- {
-   "zh-tw": "紐西蘭",
-   "zh-cn": "新西兰",
-   "en": "New Zealand",
-   "phone_code": 64
- },
- {
-   "zh-tw": "尼加拉瓜",
-   "zh-cn": "尼加拉瓜",
-   "en": "Nicaragua",
-   "phone_code": 505
- },
- {
-   "zh-tw": "尼日",
-   "zh-cn": "尼日尔",
-   "en": "Niger",
-   "phone_code": 227
- },
- {
-   "zh-tw": "奈及利亞",
-   "zh-cn": "尼日利亚",
-   "en": "Nigeria",
-   "phone_code": 234
- },
- {
-   "zh-tw": "紐埃島",
-   "zh-cn": "纽埃",
-   "en": "Niue",
-   "phone_code": 683
- },
- {
-   "zh-tw": "諾福克島",
-   "zh-cn": "诺福克岛",
-   "en": "Norfolk Island",
-   "phone_code": 6723
- },
- {
-   "zh-tw": "北馬利安納群島",
-   "zh-cn": "北马里亚纳",
-   "en": "Northern Mariana Islands",
-   "phone_code": 1
- },
- {
-   "zh-tw": "挪威",
-   "zh-cn": "挪威",
-   "en": "Norway",
-   "phone_code": 47
- },
- {
-   "zh-tw": "阿曼",
-   "zh-cn": "阿曼",
-   "en": "Oman",
-   "phone_code": 968
- },
- {
-   "zh-tw": "巴基斯坦",
-   "zh-cn": "巴基斯坦",
-   "en": "Pakistan",
-   "phone_code": 92
- },
- {
-   "zh-tw": "帛琉",
-   "zh-cn": "帕劳",
-   "en": "Palau",
-   "phone_code": 680
- },
- {
-   "zh-tw": "巴拿馬",
-   "zh-cn": "巴拿马",
-   "en": "Panama",
-   "phone_code": 507
- },
- {
-   "zh-tw": "巴布亞紐幾內亞",
-   "zh-cn": "巴布亚新几内亚",
-   "en": "Papua New Guinea",
-   "phone_code": 675
- },
- {
-   "zh-tw": "巴拉圭",
-   "zh-cn": "巴拉圭",
-   "en": "Paraguay",
-   "phone_code": 595
- },
- {
-   "zh-tw": "秘魯",
-   "zh-cn": "秘鲁",
-   "en": "Peru",
-   "phone_code": 51
- },
- {
-   "zh-tw": "菲律賓",
-   "zh-cn": "菲律宾",
-   "en": "Philippines",
-   "phone_code": 63
- },
- {
-   "zh-tw": "波蘭",
-   "zh-cn": "波兰",
-   "en": "Poland",
-   "phone_code": 48
- },
- {
-   "zh-tw": "葡萄牙",
-   "zh-cn": "葡萄牙",
-   "en": "Portugal",
-   "phone_code": 351
- },
- {
-   "zh-tw": "波多黎各",
-   "zh-cn": "波多黎各",
-   "en": "Puerto Rico",
-   "phone_code": 1809
- },
- {
-   "zh-tw": "卡達",
-   "zh-cn": "卡塔尔",
-   "en": "Qatar",
-   "phone_code": 974
- },
- {
-   "zh-tw": "留尼旺",
-   "zh-cn": "留尼汪",
-   "en": "Reunion",
-   "phone_code": 262
- },
- {
-   "zh-tw": "羅馬尼亞",
-   "zh-cn": "罗马尼亚",
-   "en": "Romania",
-   "phone_code": 40
- },
- {
-   "zh-tw": "俄羅斯",
-   "zh-cn": "俄罗斯",
-   "en": "Russia",
-   "phone_code": 7
- },
- {
-   "zh-tw": "盧安達",
-   "zh-cn": "卢旺达",
-   "en": "Rwanda",
-   "phone_code": 250
- },
- {
-   "zh-tw": "聖凱倫拿島",
-   "zh-cn": "圣赫勒拿",
-   "en": "Saint Helena",
-   "phone_code": 290
- },
- {
-   "zh-tw": "聖克里斯多福及尼維斯",
-   "zh-cn": "圣基茨和尼维斯",
-   "en": "Saint Kitts and Nevis",
-   "phone_code": 1869
- },
- {
-   "zh-tw": "聖露西亞",
-   "zh-cn": "圣卢西亚",
-   "en": "Saint Lucia",
-   "phone_code": 1758
- },
- {
-   "zh-tw": "聖皮埃與密克隆群島",
-   "zh-cn": "圣皮埃尔和密克隆",
-   "en": "Saint Pierre and Miquelon",
-   "phone_code": 508
- },
- {
-   "zh-tw": "聖文森及格瑞那丁",
-   "zh-cn": "圣文森特和格林纳丁斯",
-   "en": "Saint Vincent and the Grenadines",
-   "phone_code": 1784
- },
- {
-   "zh-tw": "薩摩亞",
-   "zh-cn": "萨摩亚",
-   "en": "Samoa",
-   "phone_code": 685
- },
- {
-   "zh-tw": "聖馬利諾",
-   "zh-cn": "圣马力诺",
-   "en": "San Marino",
-   "phone_code": 378
- },
- {
-   "zh-tw": "聖多美普林西比",
-   "zh-cn": "圣多美和普林西比",
-   "en": "Sao Tome and Principe",
-   "phone_code": 239
- },
- {
-   "zh-tw": "沙烏地阿拉伯",
-   "zh-cn": "沙特阿拉伯",
-   "en": "Saudi Arabia",
-   "phone_code": 966
- },
- {
-   "zh-tw": "塞內加爾",
-   "zh-cn": "塞内加尔",
-   "en": "Senegal",
-   "phone_code": 221
- },
- {
-   "zh-tw": "塞爾維亞與蒙特內哥羅",
-   "zh-cn": "塞尔维亚和黑山",
-   "en": "Serbia and Montenegro",
-   "phone_code": 381
- },
- {
-   "zh-tw": "塞席爾",
-   "zh-cn": "塞舌尔",
-   "en": "Seychelles",
-   "phone_code": 248
- },
- {
-   "zh-tw": "獅子山",
-   "zh-cn": "塞拉利",
-   "en": "Sierra Leone",
-   "phone_code": 232
- },
- {
-   "zh-tw": "新加坡",
-   "zh-cn": "新加坡",
-   "en": "Singapore",
-   "phone_code": 65
- },
- {
-   "zh-tw": "斯洛伐克",
-   "zh-cn": "斯洛伐克",
-   "en": "Slovakia",
-   "phone_code": 421
- },
- {
-   "zh-tw": "斯洛維尼亞",
-   "zh-cn": "斯洛文尼亚",
-   "en": "Slovenia",
-   "phone_code": 386
- },
- {
-   "zh-tw": "索羅門群島",
-   "zh-cn": "所罗门群岛",
-   "en": "Solomon Islands",
-   "phone_code": 677
- },
- {
-   "zh-tw": "索馬里",
-   "zh-cn": "索马里",
-   "en": "索馬利亞",
-   "phone_code": 252
- },
- {
-   "zh-tw": "南非",
-   "zh-cn": "南非",
-   "en": "South Africa",
-   "phone_code": 27
- },
- {
-   "zh-tw": "西班牙",
-   "zh-cn": "西班牙",
-   "en": "Spain",
-   "phone_code": 34
- },
- {
-   "zh-tw": "斯里蘭卡",
-   "zh-cn": "斯里兰卡",
-   "en": "Sri Lanka",
-   "phone_code": 94
- },
- {
-   "zh-tw": "蘇丹",
-   "zh-cn": "苏丹",
-   "en": "Sudan",
-   "phone_code": 249
- },
- {
-   "zh-tw": "蘇利南",
-   "zh-cn": "苏里南",
-   "en": "Suriname",
-   "phone_code": 597
- },
- {
-   "zh-tw": "斯瓦爾巴",
-   "zh-cn": "斯瓦尔巴岛和扬马延岛",
-   "en": "Svalbard",
-   "phone_code": 47
- },
- {
-   "zh-tw": "瑞士",
-   "zh-cn": "斯威士兰",
-   "en": "Swaziland",
-   "phone_code": 268
- },
- {
-   "zh-tw": "瑞典",
-   "zh-cn": "瑞典",
-   "en": "Sweden",
-   "phone_code": 46
- },
- {
-   "zh-tw": "瑞士",
-   "zh-cn": "瑞士",
-   "en": "Switzerland",
-   "phone_code": 41
- },
- {
-   "zh-tw": "敘利亞",
-   "zh-cn": "叙利亚",
-   "en": "Syria",
-   "phone_code": 963
- },
- {
-   "zh-tw": "台灣",
-   "zh-cn": "台湾",
-   "en": "Taiwan",
-   "phone_code": 886
- },
- {
-   "zh-tw": "塔吉克",
-   "zh-cn": "塔吉克斯坦",
-   "en": "Tajikistan",
-   "phone_code": 992
- },
- {
-   "zh-tw": "坦尚尼亞",
-   "zh-cn": "坦桑尼亚",
-   "en": "Tanzania",
-   "phone_code": 255
- },
- {
-   "zh-tw": "泰國",
-   "zh-cn": "泰国",
-   "en": "Thailand",
-   "phone_code": 66
- },
- {
-   "zh-tw": "巴哈馬",
-   "zh-cn": "巴哈马",
-   "en": "The Bahamas",
-   "phone_code": 1242
- },
- {
-   "zh-tw": "甘比亞",
-   "zh-cn": "冈比亚",
-   "en": "The Gambia",
-   "phone_code": 220
- },
- {
-   "zh-tw": "東加",
-   "zh-cn": "多哥",
-   "en": "Togo",
-   "phone_code": 228
- },
- {
-   "zh-tw": "托克勞",
-   "zh-cn": "托克劳",
-   "en": "Tokelau",
-   "phone_code": 690
- },
- {
-   "zh-tw": "湯加",
-   "zh-cn": "汤加",
-   "en": "Tonga",
-   "phone_code": 676
- },
- {
-   "zh-tw": "千里達及托巴哥",
-   "zh-cn": "特立尼达和多巴哥",
-   "en": "Trinidad and Tobago",
-   "phone_code": 1868
- },
- {
-   "zh-tw": "突尼西亞",
-   "zh-cn": "突尼斯",
-   "en": "Tunisia",
-   "phone_code": 216
- },
- {
-   "zh-tw": "土耳其",
-   "zh-cn": "土耳其",
-   "en": "Turkey",
-   "phone_code": 90
- },
- {
-   "zh-tw": "土庫曼",
-   "zh-cn": "土库曼斯坦",
-   "en": "Turkmenistan",
-   "phone_code": 993
- },
- {
-   "zh-tw": "土克斯及開科斯群島",
-   "zh-cn": "特克斯和凯科斯群岛",
-   "en": "Turks and Caicos Islands",
-   "phone_code": 1649
- },
- {
-   "zh-tw": "吐瓦魯",
-   "zh-cn": "图瓦卢",
-   "en": "Tuvalu",
-   "phone_code": 688
- },
- {
-   "zh-tw": "烏干達",
-   "zh-cn": "乌干达",
-   "en": "Uganda",
-   "phone_code": 256
- },
- {
-   "zh-tw": "烏克蘭",
-   "zh-cn": "乌克兰",
-   "en": "Ukraine",
-   "phone_code": 380
- },
- {
-   "zh-tw": "阿拉伯聯合大公國",
-   "zh-cn": "阿拉伯联合酋长国",
-   "en": "United Arab Emirates",
-   "phone_code": 971
- },
- {
-   "zh-tw": "英國",
-   "zh-cn": "英国",
-   "en": "United Kingdom",
-   "phone_code": 44
- },
- {
-   "zh-tw": "美國",
-   "zh-cn": "美国",
-   "en": "United States",
-   "phone_code": 1
- },
- {
-   "zh-tw": "烏拉圭",
-   "zh-cn": "乌拉圭",
-   "en": "Uruguay",
-   "phone_code": 598
- },
- {
-   "zh-tw": "烏茲別克",
-   "zh-cn": "乌兹别克斯坦",
-   "en": "Uzbekistan",
-   "phone_code": 998
- },
- {
-   "zh-tw": "萬那杜",
-   "zh-cn": "瓦努阿图",
-   "en": "Vanuatu",
-   "phone_code": 678
- },
- {
-   "zh-tw": "委內瑞拉",
-   "zh-cn": "委内瑞拉",
-   "en": "Venezuela",
-   "phone_code": 58
- },
- {
-   "zh-tw": "越南",
-   "zh-cn": "越南",
-   "en": "Vietnam",
-   "phone_code": 84
- },
- {
-   "zh-tw": "美屬維京群島",
-   "zh-cn": "美属维尔京群岛",
-   "en": "Virgin Islands",
-   "phone_code": 1340
- },
- {
-   "zh-tw": "瓦利斯和富圖納",
-   "zh-cn": "瓦利斯和富图纳",
-   "en": "Wallis and Futuna",
-   "phone_code": 681
- },
- {
-   "zh-tw": "葉門",
-   "zh-cn": "也门",
-   "en": "Yemen",
-   "phone_code": 967
- },
- {
-   "zh-tw": "贊比亞",
-   "zh-cn": "赞比亚",
-   "en": "Zambia",
-   "phone_code": 260
- },
- {
-   "zh-tw": "辛巴威",
-   "zh-cn": "津巴布韦",
-   "en": "Zimbabwe",
-   "phone_code": 263
- }
+  {
+    "A2": "AF",
+    "en": "Afghanistan",
+    "phone_code": "93",
+    "zh-tw": "阿富汗",
+    "zh-cn": "阿富汗"
+  },
+  {
+    "A2": "AL",
+    "en": "Albania",
+    "phone_code": "355",
+    "zh-tw": "阿爾巴尼亞",
+    "zh-cn": "阿尔巴尼亚"
+  },
+  {
+    "A2": "DZ",
+    "en": "Algeria",
+    "phone_code": "213",
+    "zh-tw": "阿爾及利亞",
+    "zh-cn": "阿尔及利亚"
+  },
+  {
+    "A2": "AS",
+    "en": "American Samoa",
+    "phone_code": "684",
+    "zh-tw": "美屬薩摩亞",
+    "zh-cn": "美属萨摩亚"
+  },
+  {
+    "A2": "AD",
+    "en": "Andorra",
+    "phone_code": "376",
+    "zh-tw": "安道爾",
+    "zh-cn": "安道尔"
+  },
+  {
+    "A2": "AO",
+    "en": "Angola",
+    "phone_code": "244",
+    "zh-tw": "安哥拉",
+    "zh-cn": "安哥拉"
+  },
+  {
+    "A2": "AI",
+    "en": "Anguilla",
+    "phone_code": "1264",
+    "zh-tw": "安奎拉",
+    "zh-cn": "安圭拉"
+  },
+  {
+    "A2": "AQ",
+    "en": "Antarctica",
+    "phone_code": "672",
+    "zh-tw": "南極洲",
+    "zh-cn": "南极洲"
+  },
+  {
+    "A2": "AG",
+    "en": "Antigua and Barbuda",
+    "phone_code": "1268",
+    "zh-tw": "安地卡及巴布達",
+    "zh-cn": "安提瓜和巴布达"
+  },
+  {
+    "A2": "AR",
+    "en": "Argentina",
+    "phone_code": "54",
+    "zh-tw": "阿根廷",
+    "zh-cn": "阿根廷"
+  },
+  {
+    "A2": "AM",
+    "en": "Armenia",
+    "phone_code": "374",
+    "zh-tw": "亞美尼亞",
+    "zh-cn": "亚美尼亚"
+  },
+  {
+    "A2": "AW",
+    "en": "Aruba",
+    "phone_code": "297",
+    "zh-tw": "阿魯巴",
+    "zh-cn": "阿鲁巴"
+  },
+  {
+    "A2": "AU",
+    "en": "Australia",
+    "phone_code": "61",
+    "zh-tw": "澳大利亞",
+    "zh-cn": "澳大利亚"
+  },
+  {
+    "A2": "AT",
+    "en": "Austria",
+    "phone_code": "43",
+    "zh-tw": "奧地利",
+    "zh-cn": "奥地利"
+  },
+  {
+    "A2": "AZ",
+    "en": "Azerbaijan",
+    "phone_code": "994",
+    "zh-tw": "亞塞拜然",
+    "zh-cn": "阿塞拜疆"
+  },
+  {
+    "A2": "BH",
+    "en": "Bahrain",
+    "phone_code": "973",
+    "zh-tw": "巴林",
+    "zh-cn": "巴林"
+  },
+  {
+    "A2": "BD",
+    "en": "Bangladesh",
+    "phone_code": "880",
+    "zh-tw": "孟加拉",
+    "zh-cn": "孟加拉国"
+  },
+  {
+    "A2": "BB",
+    "en": "Barbados",
+    "phone_code": "1246",
+    "zh-tw": "巴貝多",
+    "zh-cn": "巴巴多斯"
+  },
+  {
+    "A2": "BY",
+    "en": "Belarus",
+    "phone_code": "375",
+    "zh-tw": "白俄羅斯",
+    "zh-cn": "白俄罗斯"
+  },
+  {
+    "A2": "BE",
+    "en": "Belgium",
+    "phone_code": "32",
+    "zh-tw": "比利時",
+    "zh-cn": "比利时"
+  },
+  {
+    "A2": "BZ",
+    "en": "Belize",
+    "phone_code": "501",
+    "zh-tw": "貝里斯",
+    "zh-cn": "伯利兹"
+  },
+  {
+    "A2": "BJ",
+    "en": "Benin",
+    "phone_code": "229",
+    "zh-tw": "貝南",
+    "zh-cn": "贝宁"
+  },
+  {
+    "A2": "BM",
+    "en": "Bermuda",
+    "phone_code": "1441",
+    "zh-tw": "百慕達",
+    "zh-cn": "百慕大"
+  },
+  {
+    "A2": "BT",
+    "en": "Bhutan",
+    "phone_code": "975",
+    "zh-tw": "不丹",
+    "zh-cn": "不丹"
+  },
+  {
+    "A2": "BO",
+    "en": "Bolivia",
+    "phone_code": "591",
+    "zh-tw": "玻利維亞",
+    "zh-cn": "玻利维亚"
+  },
+  {
+    "A2": "BA",
+    "en": "Bosnia and Herzegovina",
+    "phone_code": "387",
+    "zh-tw": "波士尼亞與赫塞哥維納",
+    "zh-cn": "波黑"
+  },
+  {
+    "A2": "BW",
+    "en": "Botswana",
+    "phone_code": "267",
+    "zh-tw": "波札那",
+    "zh-cn": "博茨瓦纳"
+  },
+  {
+    "A2": "BR",
+    "en": "Brazil",
+    "phone_code": "55",
+    "zh-tw": "巴西",
+    "zh-cn": "巴西"
+  },
+  {
+    "A2": "VG",
+    "en": "British Virgin Islands",
+    "phone_code": "1284",
+    "zh-tw": "英屬維京群島",
+    "zh-cn": "英属维尔京群岛"
+  },
+  {
+    "A2": "BN",
+    "en": "Brunei Darussalam",
+    "phone_code": "673",
+    "zh-tw": "汶萊",
+    "zh-cn": "文莱"
+  },
+  {
+    "A2": "BG",
+    "en": "Bulgaria",
+    "phone_code": "359",
+    "zh-tw": "保加利亞",
+    "zh-cn": "保加利亚"
+  },
+  {
+    "A2": "BF",
+    "en": "Burkina Faso",
+    "phone_code": "226",
+    "zh-tw": "布吉納法索",
+    "zh-cn": "布基纳法索"
+  },
+  {
+    "A2": "BM",
+    "en": "Burma",
+    "phone_code": "95",
+    "zh-tw": "緬甸",
+    "zh-cn": "缅甸"
+  },
+  {
+    "A2": "BI",
+    "en": "Burundi",
+    "phone_code": "257",
+    "zh-tw": "蒲隆地",
+    "zh-cn": "布隆迪"
+  },
+  {
+    "A2": "KH",
+    "en": "Cambodia",
+    "phone_code": "855",
+    "zh-tw": "柬埔寨",
+    "zh-cn": "柬埔寨"
+  },
+  {
+    "A2": "CM",
+    "en": "Cameroon",
+    "phone_code": "237",
+    "zh-tw": "喀麥隆",
+    "zh-cn": "喀麦隆"
+  },
+  {
+    "A2": "CA",
+    "en": "Canada",
+    "phone_code": "1",
+    "zh-tw": "加拿大",
+    "zh-cn": "加拿大"
+  },
+  {
+    "A2": "CV",
+    "en": "Cape Verde",
+    "phone_code": "238",
+    "zh-tw": "維德角",
+    "zh-cn": "佛得角"
+  },
+  {
+    "A2": "KY",
+    "en": "Cayman Islands",
+    "phone_code": "1345",
+    "zh-tw": "開曼群島",
+    "zh-cn": "开曼群岛"
+  },
+  {
+    "A2": "CF",
+    "en": "Central African Republic",
+    "phone_code": "236",
+    "zh-tw": "中非共和國",
+    "zh-cn": "中非"
+  },
+  {
+    "A2": "TD",
+    "en": "Chad",
+    "phone_code": "235",
+    "zh-tw": "查德",
+    "zh-cn": "乍得"
+  },
+  {
+    "A2": "CL",
+    "en": "Chile",
+    "phone_code": "56",
+    "zh-tw": "智利",
+    "zh-cn": "智利"
+  },
+  {
+    "A2": "CN",
+    "en": "China",
+    "phone_code": "86",
+    "zh-tw": "中國",
+    "zh-cn": "中国"
+  },
+  {
+    "A2": "CX",
+    "en": "Christmas Island",
+    "phone_code": "61",
+    "zh-tw": "聖誕島",
+    "zh-cn": "圣诞岛"
+  },
+  {
+    "A2": "CC",
+    "en": "Cocos (Keeling) Islands",
+    "phone_code": "61",
+    "zh-tw": "科克斯（基靈）群島",
+    "zh-cn": "科科斯（基林）群岛"
+  },
+  {
+    "A2": "CO",
+    "en": "Colombia",
+    "phone_code": "57",
+    "zh-tw": "哥倫比亞",
+    "zh-cn": "哥伦比亚"
+  },
+  {
+    "A2": "KM",
+    "en": "Comoros",
+    "phone_code": "269",
+    "zh-tw": "葛摩",
+    "zh-cn": "科摩罗"
+  },
+  {
+    "A2": "CD",
+    "en": "Democratic Republic of the Congo",
+    "phone_code": "243",
+    "zh-tw": "剛果民主共和國",
+    "zh-cn": "刚果（金）"
+  },
+  {
+    "A2": "CG",
+    "en": "Republic of the Congo",
+    "phone_code": "242",
+    "zh-tw": "剛果",
+    "zh-cn": "刚果（布）"
+  },
+  {
+    "A2": "CK",
+    "en": "Cook Islands",
+    "phone_code": "682",
+    "zh-tw": "庫克群島",
+    "zh-cn": "库克群岛"
+  },
+  {
+    "A2": "CR",
+    "en": "Costa Rica",
+    "phone_code": "506",
+    "zh-tw": "哥斯大黎加",
+    "zh-cn": "哥斯达黎加"
+  },
+  {
+    "A2": "CI",
+    "en": "Côte d'Ivoire",
+    "phone_code": "225",
+    "zh-tw": "象牙海岸",
+    "zh-cn": "科特迪瓦"
+  },
+  {
+    "A2": "HR",
+    "en": "Croatia",
+    "phone_code": "385",
+    "zh-tw": "克羅埃西亞",
+    "zh-cn": "克罗地亚"
+  },
+  {
+    "A2": "CU",
+    "en": "Cuba",
+    "phone_code": "53",
+    "zh-tw": "古巴",
+    "zh-cn": "古巴"
+  },
+  {
+    "A2": "CY",
+    "en": "Cyprus",
+    "phone_code": "357",
+    "zh-tw": "賽普勒斯",
+    "zh-cn": "塞浦路斯"
+  },
+  {
+    "A2": "CZ",
+    "en": "Czech Republic",
+    "phone_code": "420",
+    "zh-tw": "捷克",
+    "zh-cn": "捷克"
+  },
+  {
+    "A2": "DK",
+    "en": "Denmark",
+    "phone_code": "45",
+    "zh-tw": "丹麥",
+    "zh-cn": "丹麦"
+  },
+  {
+    "A2": "DJ",
+    "en": "Djibouti",
+    "phone_code": "253",
+    "zh-tw": "吉布地",
+    "zh-cn": "吉布提"
+  },
+  {
+    "A2": "DM",
+    "en": "Dominica",
+    "phone_code": "1767",
+    "zh-tw": "多米尼克",
+    "zh-cn": "多米尼克"
+  },
+  {
+    "A2": "DO",
+    "en": "Dominican Republic",
+    "phone_code": "1809",
+    "zh-tw": "多明尼加共和國",
+    "zh-cn": "多米尼加"
+  },
+  {
+    "A2": "EC",
+    "en": "Ecuador",
+    "phone_code": "593",
+    "zh-tw": "厄瓜多",
+    "zh-cn": "厄瓜多尔"
+  },
+  {
+    "A2": "EG",
+    "en": "Egypt",
+    "phone_code": "20",
+    "zh-tw": "埃及",
+    "zh-cn": "埃及"
+  },
+  {
+    "A2": "SV",
+    "en": "El Salvador",
+    "phone_code": "503",
+    "zh-tw": "薩爾瓦多",
+    "zh-cn": "萨尔瓦多"
+  },
+  {
+    "A2": "GQ",
+    "en": "Equatorial Guinea",
+    "phone_code": "240",
+    "zh-tw": "赤道幾內亞",
+    "zh-cn": "赤道几内亚"
+  },
+  {
+    "A2": "ER",
+    "en": "Eritrea",
+    "phone_code": "291",
+    "zh-tw": "厄利垂亞",
+    "zh-cn": "厄立特里亚"
+  },
+  {
+    "A2": "EE",
+    "en": "Estonia",
+    "phone_code": "372",
+    "zh-tw": "愛沙尼亞",
+    "zh-cn": "爱沙尼亚"
+  },
+  {
+    "A2": "ET",
+    "en": "Ethiopia",
+    "phone_code": "251",
+    "zh-tw": "衣索比亞",
+    "zh-cn": "埃塞俄比亚"
+  },
+  {
+    "A2": "FK",
+    "en": "Falkland Islands (Islas Malvinas)",
+    "phone_code": "500",
+    "zh-tw": "福克蘭群島 (馬維納斯群島)",
+    "zh-cn": "福克兰群岛（马尔维纳斯）"
+  },
+  {
+    "A2": "FO",
+    "en": "Faroe Islands",
+    "phone_code": "298",
+    "zh-tw": "法羅群島",
+    "zh-cn": "法罗群岛"
+  },
+  {
+    "A2": "FJ",
+    "en": "Fiji",
+    "phone_code": "679",
+    "zh-tw": "斐濟",
+    "zh-cn": "斐济"
+  },
+  {
+    "A2": "FI",
+    "en": "Finland",
+    "phone_code": "358",
+    "zh-tw": "芬蘭",
+    "zh-cn": "芬兰"
+  },
+  {
+    "A2": "FR",
+    "en": "France",
+    "phone_code": "33",
+    "zh-tw": "法國",
+    "zh-cn": "法国"
+  },
+  {
+    "A2": "GF",
+    "en": "French Guiana",
+    "phone_code": "594",
+    "zh-tw": "法屬圭亞那",
+    "zh-cn": "法属圭亚那"
+  },
+  {
+    "A2": "PF",
+    "en": "French Polynesia",
+    "phone_code": "689",
+    "zh-tw": "法屬玻里尼西亞",
+    "zh-cn": "法属波利尼西亚"
+  },
+  {
+    "A2": "GA",
+    "en": "Gabon",
+    "phone_code": "241",
+    "zh-tw": "加彭",
+    "zh-cn": "加蓬"
+  },
+  {
+    "A2": "GE",
+    "en": "Georgia",
+    "phone_code": "995",
+    "zh-tw": "喬治亞",
+    "zh-cn": "格鲁吉亚"
+  },
+  {
+    "A2": "DE",
+    "en": "Germany",
+    "phone_code": "49",
+    "zh-tw": "德國",
+    "zh-cn": "德国"
+  },
+  {
+    "A2": "GH",
+    "en": "Ghana",
+    "phone_code": "233",
+    "zh-tw": "迦納",
+    "zh-cn": "加纳"
+  },
+  {
+    "A2": "GI",
+    "en": "Gibraltar",
+    "phone_code": "350",
+    "zh-tw": "直布羅陀",
+    "zh-cn": "直布罗陀"
+  },
+  {
+    "A2": "GR",
+    "en": "Greece",
+    "phone_code": "30",
+    "zh-tw": "希臘",
+    "zh-cn": "希腊"
+  },
+  {
+    "A2": "GL",
+    "en": "Greenland",
+    "phone_code": "299",
+    "zh-tw": "格陵蘭",
+    "zh-cn": "格陵兰"
+  },
+  {
+    "A2": "GD",
+    "en": "Grenada",
+    "phone_code": "1473",
+    "zh-tw": "格瑞那達",
+    "zh-cn": "格林纳达"
+  },
+  {
+    "A2": "GP",
+    "en": "Guadeloupe",
+    "phone_code": "590",
+    "zh-tw": "瓜地洛普",
+    "zh-cn": "瓜德罗普"
+  },
+  {
+    "A2": "GU",
+    "en": "Guam",
+    "phone_code": "1671",
+    "zh-tw": "關島",
+    "zh-cn": "关岛"
+  },
+  {
+    "A2": "GT",
+    "en": "Guatemala",
+    "phone_code": "502",
+    "zh-tw": "瓜地馬拉",
+    "zh-cn": "危地马拉"
+  },
+  {
+    "A2": "GG",
+    "en": "Guernsey",
+    "phone_code": "1481",
+    "zh-tw": "根息",
+    "zh-cn": "根西岛"
+  },
+  {
+    "A2": "GN",
+    "en": "Guinea",
+    "phone_code": "224",
+    "zh-tw": "幾內亞",
+    "zh-cn": "几内亚"
+  },
+  {
+    "A2": "GW",
+    "en": "Guinea-Bissau",
+    "phone_code": "245",
+    "zh-tw": "幾內亞比索",
+    "zh-cn": "几内亚比绍"
+  },
+  {
+    "A2": "GY",
+    "en": "Guyana",
+    "phone_code": "592",
+    "zh-tw": "蓋亞那",
+    "zh-cn": "圭亚那"
+  },
+  {
+    "A2": "HT",
+    "en": "Haiti",
+    "phone_code": "509",
+    "zh-tw": "海地",
+    "zh-cn": "海地"
+  },
+  {
+    "A2": "VA",
+    "en": "Holy See (Vatican City)",
+    "phone_code": "379",
+    "zh-tw": "梵蒂岡",
+    "zh-cn": "梵蒂冈"
+  },
+  {
+    "A2": "HN",
+    "en": "Honduras",
+    "phone_code": "504",
+    "zh-tw": "洪都拉斯",
+    "zh-cn": "洪都拉斯"
+  },
+  {
+    "A2": "HK",
+    "en": "Hong Kong",
+    "phone_code": "852",
+    "zh-tw": "香港",
+    "zh-cn": "香港"
+  },
+  {
+    "A2": "HU",
+    "en": "Hungary",
+    "phone_code": "36",
+    "zh-tw": "匈牙利",
+    "zh-cn": "匈牙利"
+  },
+  {
+    "A2": "IS",
+    "en": "Iceland",
+    "phone_code": "354",
+    "zh-tw": "冰島",
+    "zh-cn": "冰岛"
+  },
+  {
+    "A2": "IN",
+    "en": "India",
+    "phone_code": "91",
+    "zh-tw": "印度",
+    "zh-cn": "印度"
+  },
+  {
+    "A2": "ID",
+    "en": "Indonesia",
+    "phone_code": "62",
+    "zh-tw": "印尼",
+    "zh-cn": "印度尼西亚"
+  },
+  {
+    "A2": "IR",
+    "en": "Iran",
+    "phone_code": "98",
+    "zh-tw": "伊朗",
+    "zh-cn": "伊朗"
+  },
+  {
+    "A2": "IQ",
+    "en": "Iraq",
+    "phone_code": "964",
+    "zh-tw": "伊拉克",
+    "zh-cn": "伊拉克"
+  },
+  {
+    "A2": "IE",
+    "en": "Ireland",
+    "phone_code": "353",
+    "zh-tw": "愛爾蘭",
+    "zh-cn": "爱尔兰"
+  },
+  {
+    "A2": "IL",
+    "en": "Israel",
+    "phone_code": "972",
+    "zh-tw": "以色列",
+    "zh-cn": "以色列"
+  },
+  {
+    "A2": "IT",
+    "en": "Italy",
+    "phone_code": "39",
+    "zh-tw": "意大利",
+    "zh-cn": "意大利"
+  },
+  {
+    "A2": "JM",
+    "en": "Jamaica",
+    "phone_code": "1876",
+    "zh-tw": "牙買加",
+    "zh-cn": "牙买加"
+  },
+  {
+    "A2": "JP",
+    "en": "Japan",
+    "phone_code": "81",
+    "zh-tw": "日本",
+    "zh-cn": "日本"
+  },
+  {
+    "A2": "JO",
+    "en": "Jordan",
+    "phone_code": "962",
+    "zh-tw": "約旦",
+    "zh-cn": "约旦"
+  },
+  {
+    "A2": "KZ",
+    "en": "Kazakhstan",
+    "phone_code": "73",
+    "zh-tw": "哈薩克",
+    "zh-cn": "哈萨克斯坦"
+  },
+  {
+    "A2": "KE",
+    "en": "Kenya",
+    "phone_code": "254",
+    "zh-tw": "肯亞",
+    "zh-cn": "肯尼亚"
+  },
+  {
+    "A2": "KI",
+    "en": "Kiribati",
+    "phone_code": "686",
+    "zh-tw": "吉里巴斯",
+    "zh-cn": "基里巴斯"
+  },
+  {
+    "A2": "KP",
+    "en": "North Korea",
+    "phone_code": "850",
+    "zh-tw": "北韓",
+    "zh-cn": "朝鲜"
+  },
+  {
+    "A2": "KR",
+    "en": "South Korea",
+    "phone_code": "82",
+    "zh-tw": "韓國",
+    "zh-cn": "韩国"
+  },
+  {
+    "A2": "KW",
+    "en": "Kuwait",
+    "phone_code": "965",
+    "zh-tw": "科威特",
+    "zh-cn": "科威特"
+  },
+  {
+    "A2": "KG",
+    "en": "Kyrgyzstan",
+    "phone_code": "996",
+    "zh-tw": "吉爾吉斯",
+    "zh-cn": "吉尔吉斯斯坦"
+  },
+  {
+    "A2": "LA",
+    "en": "Laos",
+    "phone_code": "856",
+    "zh-tw": "寮國",
+    "zh-cn": "老挝"
+  },
+  {
+    "A2": "LV",
+    "en": "Latvia",
+    "phone_code": "371",
+    "zh-tw": "拉脫維亞",
+    "zh-cn": "拉脱维亚"
+  },
+  {
+    "A2": "LB",
+    "en": "Lebanon",
+    "phone_code": "961",
+    "zh-tw": "黎巴嫩",
+    "zh-cn": "黎巴嫩"
+  },
+  {
+    "A2": "LS",
+    "en": "Lesotho",
+    "phone_code": "266",
+    "zh-tw": "賴索托",
+    "zh-cn": "莱索托"
+  },
+  {
+    "A2": "LR",
+    "en": "Liberia",
+    "phone_code": "231",
+    "zh-tw": "賴比瑞亞",
+    "zh-cn": "利比里亚"
+  },
+  {
+    "A2": "LY",
+    "en": "Libya",
+    "phone_code": "218",
+    "zh-tw": "利比亞",
+    "zh-cn": "利比亚"
+  },
+  {
+    "A2": "LI",
+    "en": "Liechtenstein",
+    "phone_code": "423",
+    "zh-tw": "列支敦斯登",
+    "zh-cn": "列支敦士登"
+  },
+  {
+    "A2": "LT",
+    "en": "Lithuania",
+    "phone_code": "370",
+    "zh-tw": "立陶宛",
+    "zh-cn": "立陶宛"
+  },
+  {
+    "A2": "LU",
+    "en": "Luxembourg",
+    "phone_code": "352",
+    "zh-tw": "盧森堡",
+    "zh-cn": "卢森堡"
+  },
+  {
+    "A2": "MO",
+    "en": "Macao",
+    "phone_code": "853",
+    "zh-tw": "澳門",
+    "zh-cn": "澳门"
+  },
+  {
+    "A2": "MK",
+    "en": "The Former Yugoslav Republic of Macedonia",
+    "phone_code": "389",
+    "zh-tw": "前南馬其頓",
+    "zh-cn": "前南马其顿"
+  },
+  {
+    "A2": "MG",
+    "en": "Madagascar",
+    "phone_code": "261",
+    "zh-tw": "馬達加斯加",
+    "zh-cn": "马达加斯加"
+  },
+  {
+    "A2": "MW",
+    "en": "Malawi",
+    "phone_code": "265",
+    "zh-tw": "馬拉威",
+    "zh-cn": "马拉维"
+  },
+  {
+    "A2": "MY",
+    "en": "Malaysia",
+    "phone_code": "60",
+    "zh-tw": "馬來西亞",
+    "zh-cn": "马来西亚"
+  },
+  {
+    "A2": "MV",
+    "en": "Maldives",
+    "phone_code": "960",
+    "zh-tw": "馬爾地夫",
+    "zh-cn": "马尔代夫"
+  },
+  {
+    "A2": "ML",
+    "en": "Mali",
+    "phone_code": "223",
+    "zh-tw": "馬利",
+    "zh-cn": "马里"
+  },
+  {
+    "A2": "MT",
+    "en": "Malta",
+    "phone_code": "356",
+    "zh-tw": "馬爾他",
+    "zh-cn": "马耳他"
+  },
+  {
+    "A2": "MH",
+    "en": "Marshall Islands",
+    "phone_code": "692",
+    "zh-tw": "馬紹爾群島",
+    "zh-cn": "马绍尔群岛"
+  },
+  {
+    "A2": "MQ",
+    "en": "Martinique",
+    "phone_code": "596",
+    "zh-tw": "馬丁尼克",
+    "zh-cn": "马提尼克"
+  },
+  {
+    "A2": "MR",
+    "en": "Mauritania",
+    "phone_code": "222",
+    "zh-tw": "茅利塔尼亞",
+    "zh-cn": "毛里塔尼亚"
+  },
+  {
+    "A2": "MU",
+    "en": "Mauritius",
+    "phone_code": "230",
+    "zh-tw": "模里西斯",
+    "zh-cn": "毛里求斯"
+  },
+  {
+    "A2": "YT",
+    "en": "Mayotte",
+    "phone_code": "269",
+    "zh-tw": "馬約特島",
+    "zh-cn": "马约特"
+  },
+  {
+    "A2": "MX",
+    "en": "Mexico",
+    "phone_code": "52",
+    "zh-tw": "墨西哥",
+    "zh-cn": "墨西哥"
+  },
+  {
+    "A2": "FM",
+    "en": "Federated States of Micronesia",
+    "phone_code": "691",
+    "zh-tw": "密克羅尼西亞",
+    "zh-cn": "密克罗尼西亚"
+  },
+  {
+    "A2": "MD",
+    "en": "Moldova",
+    "phone_code": "373",
+    "zh-tw": "摩爾多瓦",
+    "zh-cn": "摩尔多瓦"
+  },
+  {
+    "A2": "MC",
+    "en": "Monaco",
+    "phone_code": "377",
+    "zh-tw": "摩納哥",
+    "zh-cn": "摩纳哥"
+  },
+  {
+    "A2": "MN",
+    "en": "Mongolia",
+    "phone_code": "976",
+    "zh-tw": "蒙古",
+    "zh-cn": "蒙古"
+  },
+  {
+    "A2": "MS",
+    "en": "Montserrat",
+    "phone_code": "1664",
+    "zh-tw": "蒙特塞拉特",
+    "zh-cn": "蒙特塞拉特"
+  },
+  {
+    "A2": "MA",
+    "en": "Morocco",
+    "phone_code": "212",
+    "zh-tw": "摩洛哥",
+    "zh-cn": "摩洛哥"
+  },
+  {
+    "A2": "MZ",
+    "en": "Mozambique",
+    "phone_code": "258",
+    "zh-tw": "莫三比克",
+    "zh-cn": "莫桑比克"
+  },
+  {
+    "A2": "NA",
+    "en": "Namibia",
+    "phone_code": "264",
+    "zh-tw": "納米比亞",
+    "zh-cn": "纳米尼亚"
+  },
+  {
+    "A2": "NR",
+    "en": "Nauru",
+    "phone_code": "674",
+    "zh-tw": "諾魯",
+    "zh-cn": "瑙鲁"
+  },
+  {
+    "A2": "NP",
+    "en": "Nepal",
+    "phone_code": "977",
+    "zh-tw": "尼泊爾",
+    "zh-cn": "尼泊尔"
+  },
+  {
+    "A2": "NL",
+    "en": "Netherlands",
+    "phone_code": "31",
+    "zh-tw": "荷蘭",
+    "zh-cn": "荷兰"
+  },
+  {
+    "A2": "AN",
+    "en": "Netherlands Antilles",
+    "phone_code": "599",
+    "zh-tw": "荷屬安地列斯",
+    "zh-cn": "荷属安的列斯"
+  },
+  {
+    "A2": "NC",
+    "en": "New Caledonia",
+    "phone_code": "687",
+    "zh-tw": "新喀裡多尼亞",
+    "zh-cn": "新喀里多尼亚"
+  },
+  {
+    "A2": "NZ",
+    "en": "New Zealand",
+    "phone_code": "64",
+    "zh-tw": "紐西蘭",
+    "zh-cn": "新西兰"
+  },
+  {
+    "A2": "NI",
+    "en": "Nicaragua",
+    "phone_code": "505",
+    "zh-tw": "尼加拉瓜",
+    "zh-cn": "尼加拉瓜"
+  },
+  {
+    "A2": "NE",
+    "en": "Niger",
+    "phone_code": "227",
+    "zh-tw": "尼日",
+    "zh-cn": "尼日尔"
+  },
+  {
+    "A2": "NG",
+    "en": "Nigeria",
+    "phone_code": "234",
+    "zh-tw": "奈及利亞",
+    "zh-cn": "尼日利亚"
+  },
+  {
+    "A2": "NU",
+    "en": "Niue",
+    "phone_code": "683",
+    "zh-tw": "紐埃島",
+    "zh-cn": "纽埃"
+  },
+  {
+    "A2": "NF",
+    "en": "Norfolk Island",
+    "phone_code": "6723",
+    "zh-tw": "諾福克島",
+    "zh-cn": "诺福克岛"
+  },
+  {
+    "A2": "MP",
+    "en": "Northern Mariana Islands",
+    "phone_code": "1",
+    "zh-tw": "北馬利安納群島",
+    "zh-cn": "北马里亚纳"
+  },
+  {
+    "A2": "NO",
+    "en": "Norway",
+    "phone_code": "47",
+    "zh-tw": "挪威",
+    "zh-cn": "挪威"
+  },
+  {
+    "A2": "OM",
+    "en": "Oman",
+    "phone_code": "968",
+    "zh-tw": "阿曼",
+    "zh-cn": "阿曼"
+  },
+  {
+    "A2": "PK",
+    "en": "Pakistan",
+    "phone_code": "92",
+    "zh-tw": "巴基斯坦",
+    "zh-cn": "巴基斯坦"
+  },
+  {
+    "A2": "PW",
+    "en": "Palau",
+    "phone_code": "680",
+    "zh-tw": "帛琉",
+    "zh-cn": "帕劳"
+  },
+  {
+    "A2": "PA",
+    "en": "Panama",
+    "phone_code": "507",
+    "zh-tw": "巴拿馬",
+    "zh-cn": "巴拿马"
+  },
+  {
+    "A2": "PG",
+    "en": "Papua New Guinea",
+    "phone_code": "675",
+    "zh-tw": "巴布亞紐幾內亞",
+    "zh-cn": "巴布亚新几内亚"
+  },
+  {
+    "A2": "PY",
+    "en": "Paraguay",
+    "phone_code": "595",
+    "zh-tw": "巴拉圭",
+    "zh-cn": "巴拉圭"
+  },
+  {
+    "A2": "PE",
+    "en": "Peru",
+    "phone_code": "51",
+    "zh-tw": "秘魯",
+    "zh-cn": "秘鲁"
+  },
+  {
+    "A2": "PH",
+    "en": "Philippines",
+    "phone_code": "63",
+    "zh-tw": "菲律賓",
+    "zh-cn": "菲律宾"
+  },
+  {
+    "A2": "PL",
+    "en": "Poland",
+    "phone_code": "48",
+    "zh-tw": "波蘭",
+    "zh-cn": "波兰"
+  },
+  {
+    "A2": "PT",
+    "en": "Portugal",
+    "phone_code": "351",
+    "zh-tw": "葡萄牙",
+    "zh-cn": "葡萄牙"
+  },
+  {
+    "A2": "PR",
+    "en": "Puerto Rico",
+    "phone_code": "1809",
+    "zh-tw": "波多黎各",
+    "zh-cn": "波多黎各"
+  },
+  {
+    "A2": "QA",
+    "en": "Qatar",
+    "phone_code": "974",
+    "zh-tw": "卡達",
+    "zh-cn": "卡塔尔"
+  },
+  {
+    "A2": "RE",
+    "en": "Reunion",
+    "phone_code": "262",
+    "zh-tw": "留尼旺",
+    "zh-cn": "留尼汪"
+  },
+  {
+    "A2": "RO",
+    "en": "Romania",
+    "phone_code": "40",
+    "zh-tw": "羅馬尼亞",
+    "zh-cn": "罗马尼亚"
+  },
+  {
+    "A2": "RU",
+    "en": "Russia",
+    "phone_code": "7",
+    "zh-tw": "俄羅斯",
+    "zh-cn": "俄罗斯"
+  },
+  {
+    "A2": "RW",
+    "en": "Rwanda",
+    "phone_code": "250",
+    "zh-tw": "盧安達",
+    "zh-cn": "卢旺达"
+  },
+  {
+    "A2": "SH",
+    "en": "Saint Helena",
+    "phone_code": "290",
+    "zh-tw": "聖凱倫拿島",
+    "zh-cn": "圣赫勒拿"
+  },
+  {
+    "A2": "KN",
+    "en": "Saint Kitts and Nevis",
+    "phone_code": "1869",
+    "zh-tw": "聖克里斯多福及尼維斯",
+    "zh-cn": "圣基茨和尼维斯"
+  },
+  {
+    "A2": "LC",
+    "en": "Saint Lucia",
+    "phone_code": "1758",
+    "zh-tw": "聖露西亞",
+    "zh-cn": "圣卢西亚"
+  },
+  {
+    "A2": "PM",
+    "en": "Saint Pierre and Miquelon",
+    "phone_code": "508",
+    "zh-tw": "聖皮埃與密克隆群島",
+    "zh-cn": "圣皮埃尔和密克隆"
+  },
+  {
+    "A2": "VC",
+    "en": "Saint Vincent and the Grenadines",
+    "phone_code": "1784",
+    "zh-tw": "聖文森及格瑞那丁",
+    "zh-cn": "圣文森特和格林纳丁斯"
+  },
+  {
+    "A2": "WS",
+    "en": "Samoa",
+    "phone_code": "685",
+    "zh-tw": "薩摩亞",
+    "zh-cn": "萨摩亚"
+  },
+  {
+    "A2": "SM",
+    "en": "San Marino",
+    "phone_code": "378",
+    "zh-tw": "聖馬利諾",
+    "zh-cn": "圣马力诺"
+  },
+  {
+    "A2": "ST",
+    "en": "Sao Tome and Principe",
+    "phone_code": "239",
+    "zh-tw": "聖多美普林西比",
+    "zh-cn": "圣多美和普林西比"
+  },
+  {
+    "A2": "SA",
+    "en": "Saudi Arabia",
+    "phone_code": "966",
+    "zh-tw": "沙烏地阿拉伯",
+    "zh-cn": "沙特阿拉伯"
+  },
+  {
+    "A2": "SN",
+    "en": "Senegal",
+    "phone_code": "221",
+    "zh-tw": "塞內加爾",
+    "zh-cn": "塞内加尔"
+  },
+  {
+    "A2": "CS",
+    "en": "Serbia and Montenegro",
+    "phone_code": "381",
+    "zh-tw": "塞爾維亞與蒙特內哥羅",
+    "zh-cn": "塞尔维亚和黑山"
+  },
+  {
+    "A2": "SC",
+    "en": "Seychelles",
+    "phone_code": "248",
+    "zh-tw": "塞席爾",
+    "zh-cn": "塞舌尔"
+  },
+  {
+    "A2": "SL",
+    "en": "Sierra Leone",
+    "phone_code": "232",
+    "zh-tw": "獅子山",
+    "zh-cn": "塞拉利"
+  },
+  {
+    "A2": "SG",
+    "en": "Singapore",
+    "phone_code": "65",
+    "zh-tw": "新加坡",
+    "zh-cn": "新加坡"
+  },
+  {
+    "A2": "SK",
+    "en": "Slovakia",
+    "phone_code": "421",
+    "zh-tw": "斯洛伐克",
+    "zh-cn": "斯洛伐克"
+  },
+  {
+    "A2": "SI",
+    "en": "Slovenia",
+    "phone_code": "386",
+    "zh-tw": "斯洛維尼亞",
+    "zh-cn": "斯洛文尼亚"
+  },
+  {
+    "A2": "SB",
+    "en": "Solomon Islands",
+    "phone_code": "677",
+    "zh-tw": "索羅門群島",
+    "zh-cn": "所罗门群岛"
+  },
+  {
+    "A2": "SO",
+    "en": "Somalia",
+    "phone_code": "252",
+    "zh-tw": "索馬利亞",
+    "zh-cn": "索马里"
+  },
+  {
+    "A2": "ZA",
+    "en": "South Africa",
+    "phone_code": "27",
+    "zh-tw": "南非",
+    "zh-cn": "南非"
+  },
+  {
+    "A2": "ES",
+    "en": "Spain",
+    "phone_code": "34",
+    "zh-tw": "西班牙",
+    "zh-cn": "西班牙"
+  },
+  {
+    "A2": "LK",
+    "en": "Sri Lanka",
+    "phone_code": "94",
+    "zh-tw": "斯里蘭卡",
+    "zh-cn": "斯里兰卡"
+  },
+  {
+    "A2": "SD",
+    "en": "Sudan",
+    "phone_code": "249",
+    "zh-tw": "蘇丹",
+    "zh-cn": "苏丹"
+  },
+  {
+    "A2": "SR",
+    "en": "Suriname",
+    "phone_code": "597",
+    "zh-tw": "蘇利南",
+    "zh-cn": "苏里南"
+  },
+  {
+    "A2": "SJ",
+    "en": "Svalbard",
+    "phone_code": "47",
+    "zh-tw": "斯瓦爾巴",
+    "zh-cn": "斯瓦尔巴岛和扬马延岛"
+  },
+  {
+    "A2": "SZ",
+    "en": "Swaziland",
+    "phone_code": "268",
+    "zh-tw": "瑞士",
+    "zh-cn": "斯威士兰"
+  },
+  {
+    "A2": "SE",
+    "en": "Sweden",
+    "phone_code": "46",
+    "zh-tw": "瑞典",
+    "zh-cn": "瑞典"
+  },
+  {
+    "A2": "CH",
+    "en": "Switzerland",
+    "phone_code": "41",
+    "zh-tw": "瑞士",
+    "zh-cn": "瑞士"
+  },
+  {
+    "A2": "SY",
+    "en": "Syria",
+    "phone_code": "963",
+    "zh-tw": "敘利亞",
+    "zh-cn": "叙利亚"
+  },
+  {
+    "A2": "TW",
+    "en": "Taiwan",
+    "phone_code": "886",
+    "zh-tw": "台灣",
+    "zh-cn": "台湾"
+  },
+  {
+    "A2": "TJ",
+    "en": "Tajikistan",
+    "phone_code": "992",
+    "zh-tw": "塔吉克",
+    "zh-cn": "塔吉克斯坦"
+  },
+  {
+    "A2": "TZ",
+    "en": "Tanzania",
+    "phone_code": "255",
+    "zh-tw": "坦尚尼亞",
+    "zh-cn": "坦桑尼亚"
+  },
+  {
+    "A2": "TH",
+    "en": "Thailand",
+    "phone_code": "66",
+    "zh-tw": "泰國",
+    "zh-cn": "泰国"
+  },
+  {
+    "A2": "BS",
+    "en": "The Bahamas",
+    "phone_code": "1242",
+    "zh-tw": "巴哈馬",
+    "zh-cn": "巴哈马"
+  },
+  {
+    "A2": "GM",
+    "en": "The Gambia",
+    "phone_code": "220",
+    "zh-tw": "甘比亞",
+    "zh-cn": "冈比亚"
+  },
+  {
+    "A2": "TG",
+    "en": "Togo",
+    "phone_code": "228",
+    "zh-tw": "東加",
+    "zh-cn": "多哥"
+  },
+  {
+    "A2": "TK",
+    "en": "Tokelau",
+    "phone_code": "690",
+    "zh-tw": "托克勞",
+    "zh-cn": "托克劳"
+  },
+  {
+    "A2": "TO",
+    "en": "Tonga",
+    "phone_code": "676",
+    "zh-tw": "湯加",
+    "zh-cn": "汤加"
+  },
+  {
+    "A2": "TT",
+    "en": "Trinidad and Tobago",
+    "phone_code": "1868",
+    "zh-tw": "千里達及托巴哥",
+    "zh-cn": "特立尼达和多巴哥"
+  },
+  {
+    "A2": "TN",
+    "en": "Tunisia",
+    "phone_code": "216",
+    "zh-tw": "突尼西亞",
+    "zh-cn": "突尼斯"
+  },
+  {
+    "A2": "TR",
+    "en": "Turkey",
+    "phone_code": "90",
+    "zh-tw": "土耳其",
+    "zh-cn": "土耳其"
+  },
+  {
+    "A2": "TM",
+    "en": "Turkmenistan",
+    "phone_code": "993",
+    "zh-tw": "土庫曼",
+    "zh-cn": "土库曼斯坦"
+  },
+  {
+    "A2": "TC",
+    "en": "Turks and Caicos Islands",
+    "phone_code": "1649",
+    "zh-tw": "土克斯及開科斯群島",
+    "zh-cn": "特克斯和凯科斯群岛"
+  },
+  {
+    "A2": "TV",
+    "en": "Tuvalu",
+    "phone_code": "688",
+    "zh-tw": "吐瓦魯",
+    "zh-cn": "图瓦卢"
+  },
+  {
+    "A2": "UG",
+    "en": "Uganda",
+    "phone_code": "256",
+    "zh-tw": "烏干達",
+    "zh-cn": "乌干达"
+  },
+  {
+    "A2": "UA",
+    "en": "Ukraine",
+    "phone_code": "380",
+    "zh-tw": "烏克蘭",
+    "zh-cn": "乌克兰"
+  },
+  {
+    "A2": "AE",
+    "en": "United Arab Emirates",
+    "phone_code": "971",
+    "zh-tw": "阿拉伯聯合大公國",
+    "zh-cn": "阿拉伯联合酋长国"
+  },
+  {
+    "A2": "GB",
+    "en": "United Kingdom",
+    "phone_code": "44",
+    "zh-tw": "英國",
+    "zh-cn": "英国"
+  },
+  {
+    "A2": "US",
+    "en": "United States",
+    "phone_code": "1",
+    "zh-tw": "美國",
+    "zh-cn": "美国"
+  },
+  {
+    "A2": "UY",
+    "en": "Uruguay",
+    "phone_code": "598",
+    "zh-tw": "烏拉圭",
+    "zh-cn": "乌拉圭"
+  },
+  {
+    "A2": "UZ",
+    "en": "Uzbekistan",
+    "phone_code": "998",
+    "zh-tw": "烏茲別克",
+    "zh-cn": "乌兹别克斯坦"
+  },
+  {
+    "A2": "VU",
+    "en": "Vanuatu",
+    "phone_code": "678",
+    "zh-tw": "萬那杜",
+    "zh-cn": "瓦努阿图"
+  },
+  {
+    "A2": "VE",
+    "en": "Venezuela",
+    "phone_code": "58",
+    "zh-tw": "委內瑞拉",
+    "zh-cn": "委内瑞拉"
+  },
+  {
+    "A2": "VN",
+    "en": "Vietnam",
+    "phone_code": "84",
+    "zh-tw": "越南",
+    "zh-cn": "越南"
+  },
+  {
+    "A2": "VI",
+    "en": "Virgin Islands",
+    "phone_code": "1340",
+    "zh-tw": "美屬維京群島",
+    "zh-cn": "美属维尔京群岛"
+  },
+  {
+    "A2": "WF",
+    "en": "Wallis and Futuna",
+    "phone_code": "681",
+    "zh-tw": "瓦利斯和富圖納",
+    "zh-cn": "瓦利斯和富图纳"
+  },
+  {
+    "A2": "YE",
+    "en": "Yemen",
+    "phone_code": "967",
+    "zh-tw": "葉門",
+    "zh-cn": "也门"
+  },
+  {
+    "A2": "ZM",
+    "en": "Zambia",
+    "phone_code": "260",
+    "zh-tw": "贊比亞",
+    "zh-cn": "赞比亚"
+  },
+  {
+    "A2": "ZW",
+    "en": "Zimbabwe",
+    "phone_code": "263",
+    "zh-tw": "辛巴威",
+    "zh-cn": "津巴布韦"
+  }
 ]
